@@ -1,0 +1,8 @@
+playwright
+selenium
+undetected_chromedriver
+pydantic
+fastapi
+requests
+nopecha
+uvicorn
