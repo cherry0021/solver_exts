@@ -24,7 +24,7 @@ async def get_recaptcha_response(page):
         return recaptcha_response
 async def run(siteurl):
     # Replace with your key.
-    extension_path = 'ext.xpi'
+    extension_path = './ext.xpi'
     NOPECHA_KEY = 'sub_1NpGINCRwBwvt6ptY1lwiCr4'
     user_data_dir = "/tmp/test-user-data-dir"
     
